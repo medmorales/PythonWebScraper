@@ -1,5 +1,5 @@
 # PythonWebScraper
-Using Python to scrape property listings on Zillow. 
+Using Python to scrape property listings on Zillow from San Francisco.
 
 ## Contents
 * `Zillow Scraper.py`: A web scraper using Python's `beauituflsoup` and `selenium` to parse through html. 
